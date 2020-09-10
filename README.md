@@ -141,13 +141,22 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **3.09 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características y la intuición y utilización de las máquinas de soporte vectorial para clasificación.
 
-- **LAB 03.01 - MODEL GENERATION** [POR GRABAR] - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
+- **LAB 03.01 - MODEL GENERATION** [Video* 16mins](https://youtu.be/trD-zmv6Rww) - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
 
-- **LAB 03.02 - TIME SERIES MODEL** [POR GRABAR] - Creamos un dataset desde una serie temporal, generamos un modelo de regresión lineal y medimos su desempeño.
+- **LAB 03.02 - TIME SERIES MODEL** [Video* 16mins](https://youtu.be/y6KNspJuEO0) - Creamos un dataset desde una serie temporal, aplicamos un modelo de regresión lineal y medimos su desempeño.
 
 ## Módulo 4. Gestión de datos
 
-- **4.01 - Exploración de datos** [Video 28mins](https://www.youtube.com/watch?v=Syw6CS4zY1E) - Nos enfrentamos por primera vez a un dataset de un problema real, basado en una competición de Kaggle.
+- **4.01 - Carga de datos y exploración inicial** [Video** 12mins](https://youtu.be/N4_r11DXOXU) - Nos enfrentamos por primera vez a un dataset de un problema real, basado en una competición de Kaggle.
 
-- **4.02 - Limpieza de datos** [Video 22mins](https://www.youtube.com/watch?v=35H5lbOh6zQ) - Mostramos los procesos de limpieza de datos y cómo evaluar las distintas decisiones que realizamos en el mismo. _**REVISAR, incluir un video sobre hipothesis testing, p-values**_
+- **4.02 - Exploración de variables continuas** [Video** 9mins](https://youtu.be/VFe53YsRRmI) - Consideraciones sobre la exploración de variables continuas
 
+- **4.03 - Exploración de variables categóricas** [Video** 4mins](https://youtu.be/YzFmMDJfjpA) - Consideraciones sobre la exploración de variables categóricas
+
+- **4.04 - Visión sobre datos faltantes** [Video** 3mins](https://youtu.be/sIEyRCrS8dk) - Mostramos como tener una visión global sobre las variables faltantes de un dataset.
+
+- **4.05 - Reparación de datos faltantes** [Video** 13mins](https://youtu.be/Edo2BGdHZs8) - Mostramos distintas alternativas para la imputación de datos faltantes.
+
+- **4.06 - Tests de hipótesis** [POR GRABAR] - Recordamos la intuición y mecanismo de los test de hipótesis para evaluar estadísticamente distintas alternativas
+
+- **4.07 - Evaluación de técnicas de imputación de datos** [POR GRABAR] - Aplicamos los tests de hipótesis para evaluar qué técnica de imputación de datos es más conveniente.
